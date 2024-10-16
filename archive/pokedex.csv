@@ -1,4 +1,4 @@
-Image,Index,Name,Type 1,Type 2,Total,HP,Attack,Defense,SP. Atk.,SP. Def,Speed
+Image,Index,Name,Type 1,Type 2,Total,HP,Attack,Defense,SP. Atk,SP. Def,Speed
 images/1.png,1,Bulbasaur,Grass,Poison,318,45,49,49,65,65,45
 images/2.png,2,Ivysaur,Grass,Poison,405,60,62,63,80,80,60
 images/3.png,3,Venusaur,Grass,Poison,525,80,82,83,100,100,80
